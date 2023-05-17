@@ -13,6 +13,8 @@ APIからコンテンツを取得できるので、アプリは好みのUIでコ
 
 # iOS
 
+| お知らせ一覧 | カテゴリ選択 | フィルタ時表示 | 
+| --- | --- | --- | 
 | <img width=320 src="https://github.com/TomoyaOnishi/service-announcement-ios-microcms-template/assets/2742732/d6ef1cb5-f518-4868-a23c-5337f6d2683c" /> | <img width=320 src="https://github.com/TomoyaOnishi/service-announcement-ios-microcms-template/assets/2742732/ef865049-1dc8-4d4a-8a51-755540845f43" /> | <img width=320 src="https://github.com/TomoyaOnishi/service-announcement-ios-microcms-template/assets/2742732/905273b8-eca2-451b-a3eb-5b3d18ba39cd" /> |
 
 
