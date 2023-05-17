@@ -11,6 +11,10 @@ APIからコンテンツを取得できるので、アプリは好みのUIでコ
 
 ---
 
-| 画像 | 説明 | ああ |
-| --- | --- | --- |
+# iOS
+
 | <img width=320 src="https://github.com/TomoyaOnishi/service-announcement-ios-microcms-template/assets/2742732/d6ef1cb5-f518-4868-a23c-5337f6d2683c" /> | <img width=320 src="https://github.com/TomoyaOnishi/service-announcement-ios-microcms-template/assets/2742732/ef865049-1dc8-4d4a-8a51-755540845f43" /> | <img width=320 src="https://github.com/TomoyaOnishi/service-announcement-ios-microcms-template/assets/2742732/905273b8-eca2-451b-a3eb-5b3d18ba39cd" /> |
+
+# macOS
+
+<img width="1061" alt="Screenshot 2023-05-17 at 16 14 51" src="https://github.com/TomoyaOnishi/service-announcement-ios-microcms-template/assets/2742732/f238d49a-481f-481c-be9d-3989ba8fd191">
