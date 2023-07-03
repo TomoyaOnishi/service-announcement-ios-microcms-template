@@ -11,6 +11,19 @@ APIからコンテンツを取得できるので、アプリは好みのUIでコ
 
 ---
 
+# Get Started
+`Defines.swift`に定義してある2つの変数を自分のサービスのものに変更してください。
+その後、`@available`を削除するとビルドできるようになります。
+
+```swift
+@available(*, unavailable, message: "Replace API Key with your API Key, and Remove @available")
+let microCMSAPIKey = (key: "X-MICROCMS-API-KEY", value: "xxxxxxxxxxxxxxxxxx")
+
+@available(*, unavailable, message: "Replace this with your service domain, and Remove @available")
+let microCMSServiceDomain = "xxxxxx"
+```
+
+
 # iOS
 
 | お知らせ一覧 | カテゴリ選択 | フィルタ時表示 | 
