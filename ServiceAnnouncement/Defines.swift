@@ -26,5 +26,8 @@ let microCMSJSONDecoder: JSONDecoder = {
     return decoder
 }()
 
-@available(*, unavailable, message: "Replace this API Key with your API Key")
+@available(*, unavailable, message: "Replace API Key with your API Key, and Remove @available")
 let microCMSAPIKey = (key: "X-MICROCMS-API-KEY", value: "xxxxxxxxxxxxxxxxxx")
+
+@available(*, unavailable, message: "Replace this with your service domain, and Remove @available")
+let microCMSServiceDomain = "xxxxxx"

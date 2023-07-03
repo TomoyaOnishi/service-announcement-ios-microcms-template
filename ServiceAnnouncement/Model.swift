@@ -26,7 +26,7 @@ final class Model: ObservableObject {
     }
     
     private func fetchAnnouncements(offset: Int) async throws -> ResponseContainer<Announcement> {
-        var components = URLComponents(string: "https://ios-service-announcement.microcms.io/api/v1/announcements")!
+        var components = URLComponents(string: "https://\(microCMSServiceDomain).microcms.io/api/v1/announcements")!
         components.queryItems = [
             .init(name: "offset", value: String(offset)),
             .init(name: "limit", value: "10"),
